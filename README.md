@@ -1,2 +1,2 @@
 # automating-aws-with-python for testings
-repo for aws
+repo for aws phyton
